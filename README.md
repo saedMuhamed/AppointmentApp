@@ -1,2 +1,2 @@
 # Appointment 
- This is an appointment api
+ This is an appointment
