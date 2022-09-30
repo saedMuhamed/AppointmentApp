@@ -1,2 +1,2 @@
 # Appointment 
- This is an appointment app for HGH
+ This is an appointment api
